@@ -7,7 +7,7 @@ function addTask() {
   li.textContent = taskText;
 
   const delBtn = document.createElement("button");
-  delBtn.textContent = "ลบ";
+  delBtn.textContent = "Delete";
   delBtn.onclick = function () {
     li.remove();
   };
