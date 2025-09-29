@@ -26,7 +26,7 @@ body {
   display: flex;
   justify-content: space-between;
   margin-bottom: 10px;
-  background: #eee;
+  background: gray;
   padding: 5px 10px;
   border-radius: 4px;
 }
